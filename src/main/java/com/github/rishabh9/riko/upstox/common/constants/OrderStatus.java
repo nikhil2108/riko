@@ -59,7 +59,7 @@ public final class OrderStatus {
     public static final String CANCELLED = "cancelled";
     // AMO was received by our order management system successfully. Can be modified or cancelled
     public static final String AFT_MKT_ORD_REQ_RCVD = "after market order req received";
-    // AMO modification was sucessful
+    // AMO modification was successful
     public static final String MOD_AFT_MKT_ORD_REQ_RCVD = "modify after market order req received";
     // AMO was cancelled
     public static final String CANCLLED_AFT_MKT_ORD = "cancelled after market order";
